@@ -1,6 +1,7 @@
-package mini_test2;
+package mini_test2.MiniTest;
 
-import com.sun.jmx.snmp.SnmpUnknownAccContrModelException;
+import mini_test2.MiniTest.DanhBa;
+import mini_test2.MiniTest.QuanLy;
 
 import java.util.ArrayList;
 import java.util.List;

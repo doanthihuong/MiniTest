@@ -1,6 +1,6 @@
-package mini_test2;
+package mini_test2.MiniTest;
 
-import javafx.scene.input.KeyCode;
+import mini_test2.MiniTest.DanhBa;
 
 import java.io.*;
 import java.util.List;

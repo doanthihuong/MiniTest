@@ -1,4 +1,4 @@
-package mini_test2;
+package mini_test2.MiniTest;
 
 import java.io.IOException;
 import java.util.Scanner;

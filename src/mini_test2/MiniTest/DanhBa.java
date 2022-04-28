@@ -1,4 +1,4 @@
-package mini_test2;
+package mini_test2.MiniTest;
 
 public class DanhBa {
     private String ten;

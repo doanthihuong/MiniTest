@@ -1,4 +1,4 @@
-package mini_test2;
+package mini_test2.MiniTest;
 
 public interface QuanLy <T>{
     void them();
